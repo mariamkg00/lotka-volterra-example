@@ -9,6 +9,8 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(deSolve)
 library(kableExtra)
+
+#make sure to install packages deSolve and kableExtra!
 ```
 
 Day 3 morning session
@@ -82,5 +84,8 @@ What happens as you change the different parameters (and re-run the entire code 
 
 -   $\alpha$ is a growth rate for prey
 -   $\gamma$ is a mortality rate for predator
+
+
+### Played with the parameters. 
 
 ## End
